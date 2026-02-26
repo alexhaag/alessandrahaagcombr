@@ -1,6 +1,6 @@
 export function Footer() {
   return (
-    <footer className="bg-slate-900 text-slate-200 py-16">
+    <footer className="bg-amber-400 text-slate-200 py-16">
       <div className="container mx-auto px-4 md:px-6 grid md:grid-cols-3 gap-12">
         <div className="space-y-4">
           <div className="flex flex-col">
@@ -15,9 +15,9 @@ export function Footer() {
         <div className="space-y-4">
           <h3 className="font-serif text-lg text-white">Contato</h3>
           <ul className="space-y-2 text-slate-400 text-sm">
-            <li>contato@haagconsultoria.com.br</li>
-            <li>(51) 99999-9999</li>
-            <li>Porto Alegre, RS</li>
+            <li>alessandra@haag-rh.com.br</li>
+            <li>(51) 9231-9881</li>
+            <li>Porto Alegre, RS - Brasil</li>
           </ul>
         </div>
 
